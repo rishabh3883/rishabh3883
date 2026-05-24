@@ -52,19 +52,27 @@
 
 ---
 
-## 📌 Featured Projects
+## 🤝 Open to Opportunities
 
-### 🤖 AI Attendance System
-Face recognition based attendance system using Python, OpenCV and Machine Learning.
+<table>
+<tr>
+<td>
 
-### 🏋️ AI Gym Coach
-Real-time pose estimation and exercise tracking using TensorFlow, OpenCV and MediaPipe.
+✅ Software Development Engineer (SDE)
 
-### 🏫 Smart Campus Management System
-MERN stack application for managing students, events and campus activities.
+✅ Full Stack Developer
 
-### 🏠 Airbnb Clone Website
-Full-stack booking platform built using Node.js, Express.js and MongoDB.
+✅ Machine Learning Engineer
+
+✅ AI Engineer
+
+✅ Backend Developer
+
+</td>
+</tr>
+</table>
+
+💡 Always learning, building, and improving through Full Stack Development, Machine Learning, and Open Source contributions.
 
 ---
 
