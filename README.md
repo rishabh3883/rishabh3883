@@ -36,6 +36,22 @@
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishabh3883&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh3883&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh3883&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
 ## 📌 Featured Projects
 
 ### 🤖 AI Attendance System
