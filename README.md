@@ -86,9 +86,23 @@
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
-- GitHub: https://github.com/rishabh3883
-- LinkedIn: https://www.linkedin.com/in/rishabh-gupta-5280832b7
-- LeetCode: https://leetcode.com/u/rishabhgupta3883/
-- Email: Rishabhgupta26225@gmail.com
+<p align="left">
+<a href="https://github.com/rishabh3883">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rishabh-gupta-5280832b7">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+
+<a href="mailto:Rishabhgupta26225@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+</a>
+</p>
+
+- GitHub
+- LinkedIn
+- Gmail
+- LeetCode
