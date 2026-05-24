@@ -88,22 +88,27 @@
 
 ## 📬 Connect With Me
 
-<a href="https://github.com/rishabh3883">
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
-</a>
-GitHub
+<p align="center">
+  <a href="https://github.com/rishabh3883">
+    <img src="https://skillicons.dev/icons?i=github" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rishabh-gupta-5280832b7">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:Rishabhgupta26225@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/rishabhgupta3883/">
+    <img src="https://cdn.simpleicons.org/leetcode" width="48" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/rishabh-gupta-5280832b7">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-</a>
-LinkedIn
-
-<a href="mailto:Rishabhgupta26225@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-</a>
-Gmail
-
-<a href="https://leetcode.com/u/rishabhgupta3883/">
-<img src="https://cdn.simpleicons.org/leetcode" width="40"/>
-</a>
-LeetCode
+<p align="center">
+  <a href="https://github.com/rishabh3883">GitHub</a> •
+  <a href="https://www.linkedin.com/in/rishabh-gupta-5280832b7">LinkedIn</a> •
+  <a href="mailto:Rishabhgupta26225@gmail.com">Gmail</a> •
+  <a href="https://leetcode.com/u/rishabhgupta3883/">LeetCode</a>
+</p>
