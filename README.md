@@ -15,6 +15,20 @@
 
 ---
 
+## 🚀 Professional Summary
+
+🔹 Computer Science Engineering student with hands-on experience in **Full Stack Development, Machine Learning, and Computer Vision**.
+
+🔹 Skilled in **Java, Python, JavaScript, MERN Stack, TensorFlow, OpenCV, REST APIs, MongoDB, and MySQL**, with experience building AI-powered and scalable web applications.
+
+🔹 Actively solving **Data Structures & Algorithms** problems on LeetCode and continuously improving problem-solving and software development skills.
+
+🎯 **Career Objective:**
+
+To join an innovative organization as a **Software Development Engineer, Full Stack Developer, or AI/ML Engineer**, where I can contribute to building scalable applications, solve real-world problems, and grow as a technology professional.
+
+---
+
 ## 🚀 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
