@@ -8,11 +8,6 @@
 
 📚 Currently learning Advanced Machine Learning, Deep Learning, and Cloud Technologies
 
-
-# Hi 👋, I'm Rishabh Gupta
-
-💻 Full Stack Developer | AI/ML Enthusiast | Computer Science Student
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishabh3883&label=Profile%20Views&color=blue&style=flat" />
 </p>
